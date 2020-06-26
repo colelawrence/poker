@@ -1,15 +1,18 @@
 ### Holdem Poker Exercise
 
+Open the docs at [target/doc/poker/index.html]!
+
 This is a Rust based exercise to get some hands on experience with three main concepts:
- - Implementing traits
- - Working with enums and matches
- - Using the iterators
+
+- Implementing traits
+- Working with enums and matches
+- Using the iterators
 
 #### What's the goal?
 
-Under `src/poker.rs` you will find some structures and tests that start to describe a game of Texas Holdem Poker. 
+Under `src/poker.rs` you will find some structures and tests that start to describe a game of Texas Holdem Poker.
 
-The game *IS NOT* intended to be complete (and it may not even be good Rust), in fact, it really only deals with some early elements of a game like players, cards and dealing an opening hand. Don't even trip.
+The game _IS NOT_ intended to be complete (and it may not even be good Rust), in fact, it really only deals with some early elements of a game like players, cards and dealing an opening hand. Don't even trip.
 
 In the same file you will find a set of tests, you'll probably want to comment them out and work through them one by one.
 
