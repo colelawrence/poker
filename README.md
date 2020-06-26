@@ -1,6 +1,6 @@
 ### Holdem Poker Exercise
 
-Open the docs at [target/doc/poker/index.html]!
+**[Open the docs](target/doc/poker/index.html)!**
 
 This is a Rust based exercise to get some hands on experience with three main concepts:
 
